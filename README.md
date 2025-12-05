@@ -19,10 +19,10 @@ Busco integrarme a un equipo donde pueda aportar soluciones backend fiables y se
 
 ## **Habilidades Técnicas**
 - **Lenguajes:** Python, JavaScript, TypeScript  
-- **Backend:** FastAPI, Django REST Framework, Node.js (inicial)  
+- **Backend:** FastAPI, Django REST Framework, Node.js  
 - **Frontend:** React, Astro  
 - **Bases de datos:** PostgreSQL, MongoDB, SQLite  
-- **DevOps:** Render, Railway, Git, GitHub, Linux  
+- **DevOps:** Render, Git, GitHub, Linux  
 - **Competencias:** Diseño de APIs, autenticación (JWT/Token), documentación OpenAPI, paginación, filtros, validación de datos (Pydantic)
 
 ---
